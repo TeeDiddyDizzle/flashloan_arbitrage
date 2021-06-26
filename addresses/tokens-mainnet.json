@@ -1,0 +1,23 @@
+{
+  "weth": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "busd": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+  "wbnb": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+  "xrp": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+  "cake": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+  "bake": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+  "doge": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+  "ada": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+  "safemoon": "0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3",
+  "dot": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+  "btcb": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+  "vusdt": "0xfd5840cd36d94d7229439859c0112a4185bc0255",
+  "vbusd": "0x95c78222b3d6e262426483d42cfa53685a67ab9d",
+  "bscusd": "0x55d398326f99059ff775485246999027b3197955",
+  "usdc": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+  "dai": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+  "link": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+  "bunny": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
+  "ankr": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
+  "sxp": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a"
+}
+
